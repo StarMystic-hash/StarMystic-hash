@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @StarMystic-hash
-- 👀 I’m interested in progam
+- 👀 I’m interested in programming
 - 🌱 I’m currently learning HTML5 and CSS3
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
