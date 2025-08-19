@@ -1,6 +1,5 @@
 - 👋🏻 Olá, eu sou @StarMystic-hash
 - 💻 Eu estou interessado em programação
-- 📂 Atualmente estou aprendendo JavaScript 🌪️
 
 <!---
 StarMystic-hash/StarMystic-hash is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
